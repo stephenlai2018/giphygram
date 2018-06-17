@@ -2,6 +2,7 @@
   "name": "Giphygram",
   "short_name": "Giphygram",
   "theme_color": "#0082f9",
+  "background_color": "red",
   "display": "standalone",
   "orientation": "portrait-primary",
   "scope": ".",
